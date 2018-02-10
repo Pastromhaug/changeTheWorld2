@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.cloud.android.speech;
+package com.changeTheWorld.speech;
 
 import android.app.Service;
 import android.content.Context;
@@ -29,6 +29,7 @@ import android.support.annotation.Nullable;
 import android.text.TextUtils;
 import android.util.Log;
 
+import com.changeTheWorld.R;
 import com.google.auth.Credentials;
 import com.google.auth.oauth2.AccessToken;
 import com.google.auth.oauth2.GoogleCredentials;

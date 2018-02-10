@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.google.cloud.android.speech;
+package com.changeTheWorld;
 
 import android.Manifest;
 import android.content.ComponentName;
@@ -38,6 +38,11 @@ import android.view.MenuItem;
 import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
+
+import com.changeTheWorld.speech.MessageDialogFragment;
+import com.changeTheWorld.speech.SpeechService;
+import com.changeTheWorld.speech.VoiceRecorder;
+import com.changeTheWorld.R;
 
 import java.util.ArrayList;
 
